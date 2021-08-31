@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dialog Alert</title>
+    </head>
+    <body>
+    <script>
+        alert("Hy beb");
+        alert("I just wanna say ");
+        alert("Eeee...");
+        alert("Eeeemm...");
+        alert("Eeeemmmmmmm...");
+        alert("I...");
+        alert("love...");
+        alert("you...");
+        alert("Yeah, I love you<3");
+        alert("and, I am so proud of you")
+        alert("hehe");
+        alert("Thank you :)");
+    </script>
+    </body>
+</html>
